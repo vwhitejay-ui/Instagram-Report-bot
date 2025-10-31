@@ -6,7 +6,7 @@
 
 
 
-![Stars](https://img.shields.io/github/stars/ifeelscam/Instagram-Report-bot?style=social)
+![Stars](https://www.instagram.com/reel/DH_b7zYsGKb/?igsh=Yjd6eTV3ZGhhMzF2)
 ![Forks](https://img.shields.io/github/forks/ifeelscam/Instagram-Report-bot?style=social)
 
 
